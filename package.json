@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@lit-protocol/lit-node-client-nodejs": "^2.2.36"
-  }
+  }, 
+  "type": "module"
 }
